@@ -21,7 +21,6 @@ const Header = () => {
         {/* Card 2 */}
         <Card>
           <Icon path={mdiTestTube} size={3} color={'#800000'} />
-          <Icon path={mdiTestTube} size={3} color={'#800000'} />
           <CardTextBox>
             <Text1>Online</Text1>
             <LinkResults href='#'>
